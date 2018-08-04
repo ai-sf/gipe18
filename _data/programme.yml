@@ -7,18 +7,24 @@ schedule:
     date: "05/11"
     short_descr: Arrival and Welcome ceremony
     activity:
-      - hour: "Early Afternoon"
-        descr: "Check-in and arrival at the Hotel"
-      - hour: "Late Afternoon"
-        descr: "Welcome Ceremony at the University of Trieste"
-      - hour: "Evening"
-        descr: "Trieste By Night"
+      - hour: "10:00 - 14:00"
+        descr: "Check-in and arrival Hotel Milano"
+      - hour: "Afternoon"
+        descr: "Opening Ceremony at University of Trieste"
+        descr: "plenary lectures + Labs tour"
+      - hour: "Late afternoon -> Evening"
+        descr: "Poster session + buffet"
+        
   - day: Tuesday
     date: "06/11"
     short_descr: SISSA and ICTP
     activity:
+      - hour: "8:30"
+        descr: "Leaving from Hotel to SISSA"
       - hour: "Morning"
-        descr: "Lectures @ SISSA"
+        descr: "talks @ SISSA"
+      - hour: "Morning "
+        descr: "SISSA researchers and participants Round Table"
       - hour: "Afternoon"
         descr: "Lectures and Student Talks @ ICTP"
       - hour: "Evening"
