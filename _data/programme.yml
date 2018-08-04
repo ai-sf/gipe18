@@ -9,10 +9,11 @@ schedule:
     activity:
       - hour: "10:00 - 14:00"
         descr: "Check-in and arrival Hotel Milano"
-      - hour: "Afternoon"
+      - hour: "14:30 - 15:00"
         descr: "Opening Ceremony at University of Trieste"
+      - hour: "15:00 - 18:30" 
         descr: "plenary lectures + Labs tour"
-      - hour: "Late afternoon -> Evening"
+      - hour: "18:30 -> Evening"
         descr: "Poster session + buffet"
         
   - day: Tuesday
@@ -21,25 +22,36 @@ schedule:
     activity:
       - hour: "8:30"
         descr: "Leaving from Hotel to SISSA"
-      - hour: "Morning"
+      - hour: "9:00 - 11:30"
         descr: "Lectures @ SISSA"
+      - hour: "11:30 - 13:00"
         descr: "SISSA researchers and participants Round Table"
-        descr: "Lunch @ SISSA"
-      - hour: "Afternoon"
+      - hour: "13:00"
+        descr: "Lunch @ SISSA canteen"
+      - hour: "14:30 - 18:00"
         descr: "Lectures and Student Talks @ ICTP"
-      - hour: "Evening"
-        descr: "dinner @ ICTP"
+      - hour: "19:00"
+        descr: "dinner @ ICTP canteen"
         descr: "Trieste By Night"
+        
+        
   - day: Wednesday
     date: "07/11"
-    short_descr: ELETTRA & Area Science Park
+    short_descr: ELETTRA & INFN
     activity:
+       - hour: "8:30"
+        descr: "Leaving from Hotel to ELETTRA"
       - hour: "Morning"
-        descr: "Visit at the ELETTRA synchrotrone"
-      - hour: "Afternoon"
-        descr: "Lectures and Workshop @ INFN and Area Science Park"
-      - hour: "Evening"
-        descr: "Trieste By Night"
+        descr: "Visit to the ELETTRA synchrotrone"
+      - hour: "11:30 - 13:00"
+        descr: "Student Talks"
+      - hour: "13:00"
+        descr: "Lunch @ Elettra canteen"
+      - hour: "14:30 - 18:00"
+        descr: "Lectures and Lab visit @ INFN "
+      - hour: "18:00 - 19:00"
+        descr: "Closing ceremony"
+        
   - day: Thursday
     date: "08/11"
     short_descr: City Tour
@@ -47,7 +59,7 @@ schedule:
       - hour: "Morning"
         descr: "City Tour"
       - hour: "Afternoon"
-        descr: "Closing Ceremony"
+        descr: "Departures"
    
 
 few_info:
