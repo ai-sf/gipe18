@@ -39,7 +39,7 @@ schedule:
     date: "07/11"
     short_descr: ELETTRA & INFN
     activity:
-       - hour: "8:30"
+      - hour: "8:30"
         descr: "Leaving from Hotel to ELETTRA"
       - hour: "Morning"
         descr: "Visit to the ELETTRA synchrotrone"
