@@ -55,4 +55,4 @@ deadlines:
     - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before . Payments will then be required (by bank transfer or PayPal) within 10 days of receiving an acceptance email from the organising committee."
       url: "#!"
        #- text: "Observer places, i.e. those for students who choose not to present scientific contributions, will be awarded based on short 100-word motivations to be submitted during the registration process."
-      url: "#!"
+      #url: "#!"
