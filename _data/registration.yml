@@ -9,7 +9,7 @@ posters: "A set of student talks and posters will be held at the GSSI and studen
 selection:
   info: ""
   specs:
-    - text "You can find the registration form to fill and submit here"
+    - text: "You can find the registration form to fill and submit here"
       url: "https://form.jotformeu.com/82124486461356"
       button: Form
     - text: "In order to enroll to the event you must be an IAPS member."
