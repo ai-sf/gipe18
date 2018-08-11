@@ -62,22 +62,22 @@ schedule:
         descr: "Departures"
    
 
-#few_info:
- # info: ""
-  #specs:
+few_info:
+  info: ""
+  specs:
    # - text: "In order to enroll to the event you must be an IAPS member."
     #  url: "#!"
     #- text: "We expect to select 40 students, of whom approximately half will be Italian."
      # url: "#!"
-    #- text: "40 places are available; 20 to AISF members and 20 to JDPG members. Of the 40 participation places available, 35 will be granted to individuals requiring accommodation (participation fee of 75 €) and 5 to individuals from Trieste LC, who do not require accommodation (participation fee of 50 €). Please do note that the participation fee do not cover the following: " 
-     # subpoints:
-      #  - text: "Journeys to/from Trieste. These will need to e arranged independently"
-       #   url: "#!"
-        #- text: "Insurance"
-         # url: "#!"
-        #- text: "Meals other than those officially offered in the Programme. When useful, the Organising Committee
-     # will always suggest places to eat."
-      #    url: "#!"
+    - text: "Please do note that the participation fee do not cover the following: " 
+      subpoints:
+        - text: "Journeys to/from Trieste. These will need to e arranged independently"
+          url: "#!"
+        - text: "Insurance"
+          url: "#!"
+        - text: "Meals other than those officially offered in the Programme. When useful, the Organising Committee
+      will always suggest places to eat."
+          url: "#!"
     #- text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
      # url: "http://ai-sf.it/iscrizione"
       #button: Form
