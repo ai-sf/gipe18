@@ -1,5 +1,4 @@
-info: "Registration will be opened from 13th of August
-      <script type="text/javascript" src="https://form.jotformeu.com/jsform/82124486461356"></script>"
+info: "Registration will be opened from 13th of August"
 
 
 
@@ -10,9 +9,9 @@ posters: "A set of student talks will be held at ICTP and ELETTRA and a poster s
 selection:
   info: ""
   specs:
-    - text: "You can find the registration form to fill and submit here"    
-      url: "#!" 
-      button: 
+    #- text: "You can find the registration form to fill and submit here"    
+     # url: "#!" 
+      #button: 
     - text: "In order to enroll to the event you must be an IAPS member."
       url: "#!"
     - text: "40 places are available; 20 to AISF members and 20 to JDPG members. Of the 40 participation places available, 35 will be granted to individuals requiring accommodation (participation fee of 75 €) and 5 to individuals from Trieste LC, who do not require accommodation (participation fee of 50 €)"
