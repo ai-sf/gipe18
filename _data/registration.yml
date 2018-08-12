@@ -10,12 +10,7 @@ selection:
   info: ""
   specs:
     - text: "You can find the registration form to fill and submit here    
-      <div class="row">
-      <div style="text-align:center;">
-      <a class="waves-effect waves-light btn-large" href="https://docs.google.com/forms/d/e/1FAIpQLSctxDeEelPyHeCN-oD8wxmhVk0dV7OQQu4HjFU4AkgKqW5_Sg/viewform">ISCRIVITI!</a>
-      </div>
-      </div>"
-      #url: "https://form.jotformeu.com/82124486461356"
+      url: " <a href="javascript:void( window.open( 'https://form.jotformeu.com/82124486461356', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> GIPE18 </a>"
       #button: Application
     - text: "In order to enroll to the event you must be an IAPS member."
       url: "#!"
