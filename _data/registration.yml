@@ -11,7 +11,7 @@ selection:
   info: ""
   specs:
     - text: "You can find the registration form to fill and submit here"    
-      url: " "
+      url: ""
       button: "<a class="waves-effect waves-light" href="javascript:void( window.open( 'https://form.jotformeu.com/82124486461356', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> GIPE18 </a>"
     - text: "In order to enroll to the event you must be an IAPS member."
       url: "#!"
