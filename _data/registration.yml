@@ -1,10 +1,9 @@
-info: "Registration will be opened from 13th of August
+info: "
 
-<div class="row">
+<div> 
 <div style="text-align:center;">
-<a class="waves-effect waves-light btn-large" href="https://form.jotformeu.com/jsform/82124486461356">ISCRIVITI!</a>
-</div>
-</div> "
+<a class="waves-effect waves-light btn-large" href="https://form.jotformeu.com/jsform/82124486461356">ISCRIVITI!</a></div>
+ "
 
  
 
@@ -16,7 +15,7 @@ selection:
   info: ""
   specs:
     - text: "You can find the registration form to fill and submit here"
-      #<script type="text/javascript" src="https://form.jotformeu.com/jsform/82124486461356"></script>
+      #<script type="text/javascript" src="https://form.jotformeu.com/jsform/82124486461356"></script>  Registration will be opened from 13th of August
       #url: "https://form.jotformeu.com/82124486461356"
       #button: Application
     - text: "In order to enroll to the event you must be an IAPS member."
