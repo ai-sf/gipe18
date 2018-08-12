@@ -15,7 +15,7 @@ selection:
   specs:
     - text: "You can find the registration form to fill and submit here"    
       url: "" 
-      button:  <a href="javascript:void( window.open( 'https://form.jotformeu.com/82124486461356', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> GIPE18 </a>
+      button:  <a class="waves-effect waves-light" href="javascript:void( window.open( 'https://form.jotformeu.com/82124486461356', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> GIPE18 </a>
     - text: "In order to enroll to the event you must be an IAPS member."
       url: "#!"
     - text: "40 places are available; 20 to AISF members and 20 to JDPG members. Of the 40 participation places available, 35 will be granted to individuals requiring accommodation (participation fee of 75 €) and 5 to individuals from Trieste LC, who do not require accommodation (participation fee of 50 €)"
