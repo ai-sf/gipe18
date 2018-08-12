@@ -1,4 +1,10 @@
-info: "Registration will be opened from 13th of August"
+info: "Registration will be opened from 13th of August
+
+<div class="row">
+<div style="text-align:center;">
+<a class="waves-effect waves-light btn-large" href="https://form.jotformeu.com/jsform/82124486461356">ISCRIVITI!</a>
+</div>
+</div> "
 
  
 
@@ -9,7 +15,8 @@ posters: "A set of student talks will be held at ICTP and ELETTRA and a poster s
 selection:
   info: ""
   specs:
-    #- text: "You can find the registration form to fill and submit here"
+    - text: "You can find the registration form to fill and submit here"
+      #<script type="text/javascript" src="https://form.jotformeu.com/jsform/82124486461356"></script>
       #url: "https://form.jotformeu.com/82124486461356"
       #button: Application
     - text: "In order to enroll to the event you must be an IAPS member."
