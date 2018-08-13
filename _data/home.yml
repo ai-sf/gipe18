@@ -6,7 +6,9 @@ when: "From the 5th to the 8th of November 2018"
 
 where: "In Trieste, the beautiful city in the north east border of Italy."
 
-info: "Registration will open on August 13"
+info: "Registration will open on August 13
+<div>
+  <strong>Registrations are now open. Don't miss it!</strong></div>"
 
 slideshow:
   - img: img/sissa.jpg
