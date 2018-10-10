@@ -7,13 +7,13 @@ schedule:
     date: "05/11"
     short_descr: Arrival and Welcome ceremony
     activity:
-      - hour: "10:00 - 14:00"
+      - hour: "10:00 - 15:00"
         descr: "Check-in and arrival Hotel Milano"
-      - hour: "14:30 - 15:00"
+      - hour: "15:30 - 16:00"
         descr: "Opening Ceremony at University of Trieste"
-      - hour: "15:00 - 18:30" 
-        descr: "plenary lectures + Labs tour"
-      - hour: "18:30 -> Evening"
+      - hour: "16:30 - 18:30" 
+        descr: "plenary lectures"
+      - hour: "19:00 -> Evening"
         descr: "Poster session + buffet"
         
   - day: Tuesday
