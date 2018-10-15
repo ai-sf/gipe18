@@ -11,10 +11,11 @@ schedule:
         descr: "Check-in and arrival Hotel Milano"
       - hour: "15:30 - 17:00"
         descr: "Opening Ceremony at University of Trieste"
-      - hour: "17:00 - 17:45" 
-        descr: "Plenary Lectures 
-                <div class="section"> Prof. Alessandro Baraldi:2D vs 3D. When thin materials are better than thick one }</div>"
-      - hour: "19:00 -> Evening"
+      - hour: "17:00" 
+        descr: "Plenary Lectures"
+      - hour: "17:00 - 17:45"
+        descr: "Prof. Alessandro Baraldi - 2D vs 3D. When thin materials are better than thick one"
+      - hour: "18:30 - 19:30"
         descr: "Poster session + buffet"
         
   - day: Tuesday
