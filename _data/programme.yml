@@ -5,7 +5,7 @@ last_update:
 schedule:
   - day: Monday
     date: "05/11"
-    short_descr: Arrival and Welcome ceremony
+    short_descr: Arrival and Opening Ceremony
     activity:
       - hour: "10:00 - 15:00"
         descr: "Check-in and arrival Hotel Milano"
@@ -14,7 +14,7 @@ schedule:
       - hour: "17:00" 
         descr: "Plenary Lectures"
       - hour: "17:00 - 17:45"
-        descr: "Prof. Alessandro Baraldi - 2D vs 3D. When thin materials are better than thick one"
+        descr: "Prof. Alessandro Baraldi - 2D vs 3D: when thin materials are better than thick one"
       - hour: "18:30 - 19:30"
         descr: "Poster session + buffet"
         
