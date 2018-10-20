@@ -9,13 +9,15 @@ schedule:
     activity:
       - hour: "10:00 - 15:00"
         descr: "Check-in and arrival Hotel Milano"
-      - hour: "15:30 - 17:00"
+      - hour: "15:30 - 16:30"
         descr: "Opening Ceremony at University of Trieste"
-      - hour: "17:00" 
+      - hour: "16:30" 
         descr: "Plenary Lectures"
-      - hour: "17:00 - 17:45"
+      - hour: "16:30 - 17:15"
         descr: "Prof. Alessandro Baraldi - 2D vs 3D: when thin materials are better than thick one"
-      - hour: "18:30 - 19:30"
+      - hour: "17:15 - 18:00"
+        descr: "Prof. Roberto Valandro - Particle physics from the geometry of String Theory" 
+      - hour: "18:15 - 19:30"
         descr: "Poster session + buffet"
         
   - day: Tuesday
