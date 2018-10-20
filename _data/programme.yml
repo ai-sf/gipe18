@@ -9,8 +9,10 @@ schedule:
     activity:
       - hour: "10:00 - 15:00"
         descr: "Check-in and arrival Hotel Milano"
-      - hour: "15:30 - 16:30"
+      - hour: "15:30"
         descr: "Opening Ceremony at University of Trieste"
+      - hour: "15:45 - 16:00"
+        descr: "Greetings from prof. Maurizio Fermeglia(University of Trieste dean) and prof. Giovanni Comelli(Physics Department Chair)"
       - hour: "16:30" 
         descr: "Plenary Lectures"
       - hour: "16:30 - 17:15"
