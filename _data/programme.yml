@@ -39,7 +39,7 @@ schedule:
       - hour: "10:30 - 11:00"
         descr: "Coffee break"
       - hour: "11:00 - 12:30"
-        descr: "Talks from PhD students of SISSA + round table "Embarking on a PhD: an insight into SISSA""
+        descr: "Talks from PhD students of SISSA + round table: Embarking on a PhD - an insight into SISSA"
       - hour: "12:30 - 13:30"
         descr: "Lunch @ SISSA canteen"
       - hour: "14:30 - 18:00"
