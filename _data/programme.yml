@@ -7,12 +7,12 @@ schedule:
     date: "05/11"
     short_descr: Arrival and Opening Ceremony
     activity:
-      - hour: "10:00 - 15:00"
+      - hour: "11:00 - 15:00"
         descr: "Check-in and arrival Hotel Milano"
       - hour: "15:30"
         descr: "Opening Ceremony at University of Trieste"
       - hour: "15:45 - 16:00"
-        descr: "Greetings from Prof. Maurizio Fermeglia(University of Trieste dean) and Prof. Giovanni Comelli(Physics Department Chair)"
+        descr: "Greetings from UniTS Physics Department Chair Prof. Giovanni Comelli"
       - hour: "16:00 - 16:10"
         descr: "Presentation of GIPE and AISF from Valerio Peri (former President of AISF)"
       - hour: "16:10 - 16:30"
