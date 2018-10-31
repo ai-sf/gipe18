@@ -54,8 +54,7 @@ schedule:
         descr: "Talks from Dr.Giorgi(Regional and global climate modeling and diagnostics) and Dr.Scardicchio (Quantum computing and Quantum information)"
       - hour: "19:00"
         descr: "dinner @ ICTP canteen"
-        descr: "Trieste By Night"
-        
+                
         
   - day: Wednesday
     date: "07/11"
