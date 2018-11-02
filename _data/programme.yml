@@ -71,7 +71,7 @@ schedule:
       - hour: "14:00 - 14:15"
         descr: "Welcome to SiS FVG and INFN (Scientific & Innovation System of FVG, National Institut of Nuclear Physics)"
       - hour: "14:15 - 14:45"
-        descr: "Entrepreneurial success stories in Physics sector: Anna Gregorio and Federico Dogo(Picosats Srl), Enrico Braidotti(Caen Els)
+        descr: "Entrepreneurial success stories in Physics sector: Anna Gregorio and Federico Dogo(Picosats Srl), Enrico Braidotti(Caen Els)"
       - hour: "14:45 - 17:45"
         descr:  "Parallel session: INFN Laboratory visit and Researchers’ career development opportunities offered by SiS FVG"
       - hour: "18:00"
