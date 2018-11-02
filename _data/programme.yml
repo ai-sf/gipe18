@@ -58,19 +58,23 @@ schedule:
         
   - day: Wednesday
     date: "07/11"
-    short_descr: ELETTRA & INFN
+    short_descr: ELETTRA, INFN & ASP
     activity:
-      - hour: "8:30"
+      - hour: "9:00"
         descr: "Leaving from Hotel to ELETTRA"
-      - hour: "Morning"
+      - hour: "9:30 - 12:30"
         descr: "Visit to the ELETTRA synchrotrone"
-      - hour: "11:30 - 13:00"
-        descr: "Student Talks"
-      - hour: "13:00"
+      - hour: "12:30 - 13:30"
         descr: "Lunch @ Elettra canteen"
-      - hour: "14:30 - 18:00"
-        descr: "Lectures and Lab visit @ INFN "
-      - hour: "18:00 - 19:00"
+      - hour: "13:45 - 14:00"
+        descr: "Moving to Area Science Park (Loc. Padriciano campus)"
+      - hour: "14:00 - 14:15"
+        descr: "Welcome to SiS FVG and INFN (Scientific & Innovation System of FVG, National Institut of Nuclear Physics)"
+      - hour: "14:15 - 14:45"
+        descr: "Entrepreneurial success stories in Physics sector: Anna Gregorio and Federico Dogo(Picosats Srl), Enrico Braidotti(Caen Els)
+      - hour: "14:45 - 17:45"
+        descr:  "Parallel session: INFN Laboratory visit and Researchers’ career development opportunities offered by SiS FVG"
+      - hour: "18:00"
         descr: "Closing ceremony"
       - hour: "20:30"
         descr: "Pizza night"
